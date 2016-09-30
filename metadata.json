@@ -3,7 +3,7 @@
   "name":       "InfluxDB",
   "description":"Time series database built to handle high write and query loads. ",
   "mime":       null,
-  "category":   "data",
+  "category":   "development",
   "icon":       "",
   "preload":    [
     {"src": "main.js", "type": "javascript"}
